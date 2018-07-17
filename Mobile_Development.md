@@ -33,20 +33,20 @@
 	- K: Considering the necessity of each type
 
 * Q09: How do you decide when to use infinite scroll or pagination?
-	-A: 
-	-K: user-generated content vs. goal-oriented content
+	- A: 
+	- K: user-generated content vs. goal-oriented content
 
 * Q10: How should you design push notifications?
-	-A: 
-	-K: Clear, understandable & timing
+	- A: 
+	- K: Clear, understandable & timing
 
 * Q11: How could VR/AR change the dseign?
-	-A: 
-	-K: 
+	- A: 
+	- K: 
 
 * Q12: What is onboarding and why is it important?
-	-A: 
-	-K: 
+	- A: 
+	- K: 
 
 ### Specific
 
