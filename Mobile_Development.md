@@ -45,6 +45,7 @@
 	- K: 
 
 * Q12: What is onboarding and why is it important?
+<<<<<<< HEAD
 	- A: 
 	- K: 
 
